@@ -1,0 +1,21 @@
+/*body {
+	text-align: center;
+}*/
+
+/*div {
+	text-align: center;
+}*/
+
+html {
+	text-align: center;
+}
+
+/* CLASS */
+.RED {
+	color: red;
+} 
+
+/* ID */
+#BLUE {
+	color: blue;
+}
